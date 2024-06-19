@@ -1,0 +1,3 @@
+[submodule "src/posts/entities"]
+	path = src/posts/entities
+	url = https://github.com/neodevstory/common
